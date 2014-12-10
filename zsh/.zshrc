@@ -79,4 +79,5 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-export PS1=" %S>>>%s  " 
+export PS1=" %S>>>%s  "
+export RPS1="[ %@ ]" 
