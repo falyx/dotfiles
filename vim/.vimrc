@@ -6,3 +6,5 @@ set softtabstop=4
 
 set number
 set cursorline
+
+set directory=.,$TEMP
